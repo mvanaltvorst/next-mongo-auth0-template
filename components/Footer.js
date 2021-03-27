@@ -20,7 +20,7 @@ export default function Footer() {
             </li>
           </ul>
           <div className="pt-10 sm:pt-12">
-            <a className="hover:text-gray-900 transition-colers duration-200 max-w-4xl text-lg sm:text-2xl font-medium sm:leading-10 space-y-6 mb-6"
+            <a className="hover:text-gray-900 transition-colors duration-200 max-w-4xl sm:text-2xl font-medium sm:leading-10 space-y-6 mb-6"
                href="https://mauritsvanaltvorst.com/">
               © Maurits van Altvorst
             </a>
